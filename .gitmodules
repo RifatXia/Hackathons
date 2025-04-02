@@ -1,6 +1,3 @@
 [submodule "HackIllinois2025/Midas"]
 	path = HackIllinois2025/Midas
 	url = git@github.com:Darkarche3/Midas.git
-[submodule "UncommonHacks 2025"]
- 	path = UncommonHacks 2025
- 	url = git@github.com:KaungMyatNaing9/Uncommon2025.git
