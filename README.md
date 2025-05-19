@@ -6,4 +6,4 @@
 # Hackathons
 - HackIllinois2025: 28 Feb to 02 Mar 2025 - University of Illinois, Urbana Champaign
 - UncommonHacks2025: 30 Mar to 31 Mar 2025 - University of Chicago
-
+- WildHacks2025: 05 Apr to 06 Apr 2025 - Northwestern University
