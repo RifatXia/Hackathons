@@ -4,3 +4,6 @@
 [submodule "UncommonHacks2025/Uncommon2025"]
 	path = UncommonHacks2025/Uncommon2025
 	url = git@github.com:KaungMyatNaing9/Uncommon2025.git
+[submodule "WildHacks2025/WildHacks2025"]
+	path = WildHacks2025/WildHacks2025
+	url = git@github.com:Jason-Latz/AgriDuty.git
