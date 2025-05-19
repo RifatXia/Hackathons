@@ -7,3 +7,6 @@
 [submodule "WildHacks2025/WildHacks2025"]
 	path = WildHacks2025/WildHacks2025
 	url = git@github.com:Jason-Latz/AgriDuty.git
+[submodule "LAHacks2025/LAHacks2025"]
+	path = LAHacks2025/LAHacks2025
+	url = git@github.com:RifatXia/LAHacks-2025.git
